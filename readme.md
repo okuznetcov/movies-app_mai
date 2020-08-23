@@ -1,6 +1,6 @@
 # Movies App
 
-Курсовой проект в виде SPA-приложение на стеке MERN (MongoDb, Express.js, React.js, Node.js)
+Курсовой проект в виде SPA-приложения на стеке MERN (MongoDb, Express.js, React.js, Node.js)
 
 ## Быстрый старт
 
